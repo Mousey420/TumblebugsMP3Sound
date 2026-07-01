@@ -1,0 +1,70 @@
+Saved Pathways <> 
+
+Church to Orc Fortress <fortress>
+s, w, n, n, w, w, w, w, w, w, w, w, w, w, w, w, n, w, w, n
+
+Gont Docks to Hidden Farm Orchard <orchard> (30 Macintosh Apples)
+do n, n, w, sw, nw, n, ne, e, ne, n, n, n, n, nw, n, ne, nw, ne, ne, e, e, e, s, s
+climb ladder, search hay, pull plank, out,  then <climb rope> to get back out
+
+Church to rats       <entrance>                         do s, s, s, w, s, s, s, e
+Church to lemons                                             do s, s, s, w, w, up, climb steps, e
+
+Calia Pier to Magic Academy                          do e, e, ne, n, n, ne, n, ne, ne, ne, n, n, e, n, n, w
+Magic Academy to Pier                                    do s, s, w, s, sw, sw, sw, s, s, s, w, s, s, sw, w, w
+Church to Calia Dock                                       do s, e, e, e, s, e, e, e, e
+Calia Dock to Church <ship>                          do w, w, w, w,  n,  w, w, w, n
+Academy Armory to Bank                               do e, s, s, w, w, w, w, w, w, w, w, s, s, w
+Bank to Academy Armory                               do e, n, n, e, e, e, e, e, e, e, e, n, n, w
+Calia Pier to Blacksmith                                  do e, e, ne, n, n, n, n, nw, nw, nw, s
+Calia Pier to Bank			    do e, e, ne, n, n, n, n, nw, nw, nw, w
+Blacksmith to Academy                                  do n, n, n, e, e, e, e, e, e, e, e, n, n, w
+Academy Armory to Blacksmith                    do e, s, s, w, w, w, w, w, w, w, w, s, s, s
+Gelan Shop to School Armory                        do e, e, e, e, e, e, e, e, e, n, n, w
+School Armory to Gelan Shop                        do e, s, s, w, w, w, w, w, w, w, w, w
+Shop to Bin                                                       do e, e, e, e, e, e, e, s, s, s 
+
+Church to Gont Dock                                       do s, e, e, e, n, n, e
+Gont Dock to Church                                       do w, s, s, w, w, w, n
+Hidden Orchard Barn to Gont Docks
+n, n, w, w, w, sw, sw, se, sw, s, se, s, s, s, s, sw, w, sw, s, se, ne, e, s, s
+Gont Docks to Gardening Shed - Johanna       
+do n, n, w, sw, sw, s, w, sw, sw, nw, n, enter undergrowth north, climb wall, enter shed
+
+Gelan Bank to Gardens                          
+do e, se, se, se, s, s, s, s, s, s, w, w, w, w, s, s, s, s, s, s, s, climb rock, s, s, sw, sw, down, n
+Academy Armory to Gardens
+do e, s, s, w, s, s, sw, sw, sw, s, sw, s, s, s, s, w, w, w, w, s, s, s, s, s, s, s, climb rock, s, s, sw, sw, down, n
+
+At The Gardens In The Cliffs South of Gelan Beach Past The Strong Rope
+garden entrance to eastern north path               do e, e, e, e, e, e
+garden entrance to western north path              do w, w, w, w, w, w
+east across the top or bottom of the garden      do e, e, e, e, e, e, e, e, e, e, e, e
+west across the top or bottom  of the garden    do w, w, w, w, w, w, w, w, w, w, w, w
+to get to the top of the garden                            do n, n, n, n, n, n, n, n, n, n
+to get to the bottom of the garden                     do s, s, s, s, s, s, s, s, s, s
+to Herbs Shop from Garden Entrance                do n, n, e, e, e, ne, n, n, n, n, ne
+to Garden Entrance from Herbs Shop                do sw, s, s, s, s, sw, w, w, w, s, s
+from Bank to Shop                                                do nw, n, n, n, n, ne
+from Shop to Bank                                                do sw, s, s, s, s, se
+from Garden Entrance to Gem Shop                  do n, n, w, w, w, nw, n, n, n, n, nw
+from Gem Shop to Garden Entrance                  do se, s, s, s, s, se, e, e, e, s, s
+from Gem Shop to Herb Shop                            do se, ne, e, e, e, e, e, e, se, ne
+from Herb Shop to Gem Shop                            do sw, nw, w, w, w, w, w, w, sw, nw
+Garden Entrance to Bank                                    do n, n, e, e, e, ne, se
+Bank to Garden Entrance                                    do nw, sw, w, w, w, s, s
+get watering can from third shelf
+fill watering can
+
+Hidden Orchard in Gont Barn to Other Worm Apple Tree in Ten Alders
+do climb rope, down, n, n, e, e, e, e, ne, ne, n, nw, nw, n, ne, ne, ne, n, ne, n, e, ne, ne, n, nw, n, ne, nw, nw, n, n, nw, nw, n, nw, nw, n, nw, w, sw
+
+Church to Pelagrir Docks                   <bath1>   do s, e, e, e, n, n
+Pelagrir Pier to Baths 35 silver coins <bath2>  do s, w, w, w, w, w, n, n, n, n, n, ne, ne, e, e, e, e 
+<bath 3> knock on door, pay attendant, look, e, unwield sword, remove all, look, enter tub, soap, soap, soap, soap, leave tub, look, look, dry off, thank Melin, put soap in pot, put towel in basket, wield sword, wear all, home
+
+Church to Green Oaks
+do s, w, n, n, w, w, w, w, w, w, w, w, w, w, w, w, w, w, w, sw, s, s, sw, w, sw, sw, sw, s, se, s, se, e, se, se, se, se, e, e, se, se, e, se, se, n, n
+
+Unusual, Peculiar or Exotic
+

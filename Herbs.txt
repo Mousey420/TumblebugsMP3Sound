@@ -1,0 +1,58 @@
+Herbs
+http://genesisquests.pbworks.com/w/page/117761337/Herbs%20in%20Genesis
+
+small green-yellow mushroom		Handasse		                  Increases INT
+pale green lichen			Tuo			Increases STR
+
+Herbs NOT Listed On Website
+---------------------------------------------------------------------------------
+Healing
+sea moss         | slippery brown moss              | health   | min  |   0
+
+Cure
+goats rue        | pale whitish-blue flower         | all      | min  |   0
+maroea           | yellow drooping flower           | all      | maj  |   0
+
+Special
+bilberry         | small black berry                |    -     |  -   |   0 
+
+
+Herbs Listed On Website
+-----------------------------------------------------------------------------------
+Healing/Fatigue
+attanar          | little blue berry                | health   | maj  |   0 |
+| basil            | handful of small dark green leav | fatigue  | min  |   0 |
+| black currant    | black shiny berry                | fatigue  | min  |   0 |
+| blackberry       | little black berry               | fatigue  | min  |   0 |
+| blackroot        | black fiberous root              | health   | min  |   0 |
+| blueberry        | little blue berry                | fatigue  | min  |   0 |
+| blung            | purple-green shaggy moss         | fatigue  | min  |   0 |
+| bunchberry       | veined oval leaf                 | fatigue  | min  |   0 |
+| chantrelle       | puffy yellow mushroom            | mana     | min  |   0 |
+| chicory          | sharp short leaf                 | fatigue  | norm |  0 |
+| dandelion        | serrated leaf                    | fatigue  | min  |   0 |
+| drakeroot        | tiny black root                  | mana     | norm |   0 |
+| fiddlehead       | unfurling green frond            | health   | min  |   0 |
+| frosty raspberry | frosty red berry                 | fatigue  | min  |  0 |
+| garlic           | mild smelly white rose-tinged bu | health   | min  |   0 |
+| hawthorn         | red berry                        | fatigue  | min  |   0 |
+| huckleberry      | green berry                      | health   | min  |   0 |
+| laurel           | stiff dark green leaf            | fatigue  | min  |   0 |
+| marjoram         | broad flowery umbel              | fatigue  | min  |   0 |
+| mint             | handful of narrow sharply toothe | fatigue  | min  |   0 |
+| oakmoss          | piece of brown lichen            | mana     | norm |   0 |
+| orange carrot    | green-topped orange carrot       | fatigue  | min  |   0 |
+| oregano          | handful of stalked ovate leaves  | fatigue  | min  |   0 |
+| sage             | handful of tubular two-lipped fl | fatigue  | min  |   0 |
+| sea moss         | slippery brown moss              | health   | min  |   0 |
+| wild plum        | smooth purplish fruit            | fatigue  | min  |   0 |
++------------------+----------------------------------+----------+------+-----+
+  Herb (Cure)        Description                        Type       Str    Qty  
++------------------+----------------------------------+----------+------+-----+
+| savory           | handful of small stiff aromatic  | bee      | maj  |   0 |
+| ungolestel       | brown patch of moss              | spider   | maj  |   0 |
++------------------+----------------------------------+----------+------+-----+
+  Herb (Special)     Description                        Type       Str    Qty  
++------------------+----------------------------------+----------+------+-----+
+| monkshood        | small tuberous root              |    -     |  -   |   0 |	Rub Skin (Healing)
++------------------+----------------------------------+----------+------+-----+
